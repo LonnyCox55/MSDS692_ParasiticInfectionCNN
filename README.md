@@ -4,6 +4,8 @@ Author: Lonny Cox-Lauf
 
 ## Purpose
 
+![alt text](parasite_eggs_11.png "Sample Microscopic Image for each of the 11 Parasitic Egg Classifications")
+
 TO DO
 
 ## Tools

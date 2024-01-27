@@ -1,23 +1,27 @@
-#Purpose
+# **Intestinal Parasitic Egg Classification in Microscopic Images using CNNs**
+MSDS692: Data Science Practicum I Project
+Author: Lonny Cox-Lauf
+
+## Purpose
 
 TO DO
 
-#Tools
+## Tools
 
 TO DO
 
-#Dataset Description
+## Dataset Description
 
 TO DO
 
-#Image Data Cleaning
+## Image Data Cleaning
 
 TO DO
 
-#Evaluation of Model Performance
+## Evaluation of Model Performance
 
-##Model 1: Basic CNN
+### Model 1: Basic CNN
 
 TO DO
 
-#Conclusion
+## Conclusion

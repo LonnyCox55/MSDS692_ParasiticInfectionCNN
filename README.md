@@ -26,4 +26,10 @@ TO DO
 
 TO DO
 
+### Model 2: EfficientNetB0
+
+EfficientNetB0 CNN architecture as the base for the model achieved a F1-score of TO DO when making class predictions on the test set.
+
+![alt text](ConfMat_EfficientNetB0.png "Confusion Matrix")
+
 ## Conclusion

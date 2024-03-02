@@ -18,17 +18,15 @@ TO DO
 
 ## Image Data Cleaning
 
-TO DO
+The images had to be:
 
-## Evaluation of Model Performance
+* Unzipped into Google drive
+* Cropped using their corresponding bounding boxes (found in the labels.json file that accompanied the image dataset)
+* Image files were broken out into subdirectories for each class (label) and training, validation, test splits as well
 
-### Model 1: Basic CNN
+## Evaluation of Best Model Performance
 
-TO DO
-
-### Model 2: EfficientNetB0
-
-EfficientNetB0 CNN architecture as the base for the model achieved a F1-score of TO DO when making class predictions on the test set.
+EfficientNetB0 CNN architecture as the base for the model achieved a F1-score of 0.84714 when making class predictions on the test set.
 
 ![alt text](ConfMat_EfficientNetB0.png "Confusion Matrix")
 

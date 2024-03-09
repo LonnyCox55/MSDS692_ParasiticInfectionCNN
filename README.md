@@ -20,7 +20,11 @@ Plus, historically, CNN architectures have proven to be an incredibly effective 
 2. Copy or move the .zip file above somewhere in your personal Google Drive
 3. Open Google Colab: https://colab.research.google.com/
 4. In Colab, click File > 'Open Notebook'
-5. In the pop-up window, select the GitHub tab, then copy and paste this GitHub repository high level link in the field box: 
+5. In the pop-up window, select the GitHub tab, then copy and paste this GitHub repository high level link in the field box: https://github.com/LonnyCox55/MSDS692_ParasiticInfectionCNN/tree/main
+6. You should now see my src/main.ipynb file that can be opened up, click that and the Python Jupyter Notebook file will open in Colab
+7. Click Runtime > Change Runtime Type, then ensure that one of the GPU servers is being used (i.e., T4 GPU or A100 or V100)
+8. Edit cell #5 (where the !unzip command occurs) to match where the .zip file was placed in your personal Google Drive
+9. Runtime > Run all
 
 ## Dataset Description
 

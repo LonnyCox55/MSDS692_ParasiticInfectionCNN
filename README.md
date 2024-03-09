@@ -1,5 +1,7 @@
 # **Intestinal Parasitic Egg Classification in Microscopic Images using CNNs**
+
 MSDS692: Data Science Practicum I Project
+
 Author: Lonny Cox-Lauf
 
 ## Purpose
@@ -7,6 +9,7 @@ Author: Lonny Cox-Lauf
 Intestinal Parasitic Infections (IPIs) are one of the most common causes of illness in the world, and they can cause harsh symptoms and even death in some cases. These symptoms can include (but are not limited to): nausea, nutritional deficiency, abdominal pain, and more. IPIs typically manifest themselves in developing locations, such as sub-Saharan Africa, the Caribbean, and Asia. IPIs are historically classified by only visual analysis of microscopic images. Because of ambiguities in the parasitic eggs, such as with their colors, shapes, or densities, they can be misclassified and thus the IPI is misdiagnosed for the patient. The goals are to:
 1. Minimize this risk for human error
 2. Decrease the amount of waiting time before the classification is made by a doctor
+
 Both of these goals will result in the patients getting placed on the proper medication in a timely manner. Historically, CNN architectures have proven to be an incredibly effective tool in the medical imaging field.	For example, CNNs have been used to detect malaria, tuberculosis, and many other conditions.
 
 ## How to Run the Project in Google Colab

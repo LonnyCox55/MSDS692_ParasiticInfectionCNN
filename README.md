@@ -10,7 +10,9 @@ Intestinal Parasitic Infections (IPIs) are one of the most common causes of illn
 1. Minimize this risk for human error
 2. Decrease the amount of waiting time before the classification is made by a doctor
 
-Both of these goals will result in the patients getting placed on the proper medication in a timely manner. Historically, CNN architectures have proven to be an incredibly effective tool in the medical imaging field.	For example, CNNs have been used to detect malaria, tuberculosis, and many other conditions.
+Both of these goals will result in the patients getting placed on the proper medication in a timely manner.
+
+Plus, historically, CNN architectures have proven to be an incredibly effective tool in the medical imaging field.	For example, CNNs have been used to detect malaria, tuberculosis, and many other conditions.
 
 ## How to Run the Project in Google Colab
 

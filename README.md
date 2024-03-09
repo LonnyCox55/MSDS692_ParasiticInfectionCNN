@@ -4,6 +4,8 @@ MSDS692: Data Science Practicum I Project
 
 Author: Lonny Cox-Lauf
 
+Link to presentation recording: https://www.youtube.com/watch?v=caXI7WwW-9Y
+
 ## Purpose
 
 Intestinal Parasitic Infections (IPIs) are one of the most common causes of illness in the world, and they can cause harsh symptoms and even death in some cases. These symptoms can include (but are not limited to): nausea, nutritional deficiency, abdominal pain, and more. IPIs typically manifest themselves in developing locations, such as sub-Saharan Africa, the Caribbean, and Asia. IPIs are historically classified by only visual analysis of microscopic images. Because of ambiguities in the parasitic eggs, such as with their colors, shapes, or densities, they can be misclassified and thus the IPI is misdiagnosed for the patient. The goals are to:

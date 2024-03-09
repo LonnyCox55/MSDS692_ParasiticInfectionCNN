@@ -16,7 +16,7 @@ Plus, historically, CNN architectures have proven to be an incredibly effective 
 
 ## How to Run the Project in Google Colab
 
-TO DO
+1. Download Chula-ParasiteEgg-11.zip
 
 ## Dataset Description
 

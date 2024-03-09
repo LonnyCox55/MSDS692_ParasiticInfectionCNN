@@ -4,7 +4,10 @@ Author: Lonny Cox-Lauf
 
 ## Purpose
 
-Intestinal Parasitic Infections (IPIs) are one of the most common causes of illness in the world, and they can cause harsh symptoms and even death in some cases. These symptoms can include (but are not limited to): nausea, nutritional deficiency, abdominal pain, and more. IPIs typically manifest themselves in developing locations, such as sub-Saharan Africa, the Caribbean, and Asia. 
+Intestinal Parasitic Infections (IPIs) are one of the most common causes of illness in the world, and they can cause harsh symptoms and even death in some cases. These symptoms can include (but are not limited to): nausea, nutritional deficiency, abdominal pain, and more. IPIs typically manifest themselves in developing locations, such as sub-Saharan Africa, the Caribbean, and Asia. IPIs are historically classified by only visual analysis of microscopic images. Because of ambiguities in the parasitic eggs, such as with their colors, shapes, or densities, they can be misclassified and thus the IPI is misdiagnosed for the patient. The goals are to:
+1. Minimize this risk for human error
+2. Decrease the amount of waiting time before the classification is made by a doctor
+Both of these goals will result in the patients getting placed on the proper medication in a timely manner. Historically, CNN architectures have proven to be an incredibly effective tool in the medical imaging field.	For example, CNNs have been used to detect malaria, tuberculosis, and many other conditions.
 
 ## How to Run the Project in Google Colab
 
@@ -33,3 +36,6 @@ See below for a confusion matrix representing the correct prediction counts (on 
 ![alt text](ConfMat_EfficientNetB0.png "Confusion Matrix")
 
 ## Conclusion
+
+In summary, coming into this project, I knew that CNNs have been excellent tools regarding the medical imaging field, so I knew this would be an interesting experiment. I saw the best results and metrics with my model based on the EfficientNetB0 architecture. As mentioned on the last slide, there is plenty of room for improvement and other base CNN architectures to play around with to try increasing the accuracy. And finally, this was definitely a learning experience for me, as the image data cleaning, cropping, and organization took longer than initially expected. In the future, it would be interesting to use the scaled-up versions of EfficientNet and see how much the metrics such as F1 score improve. There is also a 2nd version of EfficientNet called EfficientNetV2, which I found listed in the Keras documentation, so it would be interesting to try that as well. It may also be beneficial to freeze less layers in EfficientNet and refine some more of the convolutional layers to try fitting the model better to my specific parasite egg data. Finally, activation maps would be beneficial to see the parts of the images that are deemed “most significant” to see how the model is making selections.
+

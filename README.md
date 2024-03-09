@@ -30,6 +30,9 @@ Plus, historically, CNN architectures have proven to be an incredibly effective 
 
 ## Dataset Description
 
+### Dataset Citation
+Duangdao Palasuwan, Korranat Naruenatthanaset, Thananop Kobchaisawat, Thanarat H Chalidabhongse, Nuntiporn Nunthanasup, Kanyarat Boonpeng, Nantheera Anantrasirichai. (2022). Parasitic Egg Detection and Classification in Microscopic Images. IEEE Dataport. https://dx.doi.org/10.21227/vyh8-4h71
+
 ![alt text](parasite_eggs_11.png "Sample Microscopic Image for each of the 11 Parasitic Egg Classifications")
 
 The dataset contains 11 classes of parasitic eggs, with each class containing 1,000 images. This gives a total of 11,000 images. The images were taken as microscopic images from human faecal samples, all of which contain intestinal parasitic infectious (IPI) eggs in view. The quality of image varies greatly, as some images are more blurry than others, and some are more zoomed in on the egg while others are zoomed out. This all adds to the complexity of this image classifier project.

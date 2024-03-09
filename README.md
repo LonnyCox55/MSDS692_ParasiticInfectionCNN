@@ -16,7 +16,11 @@ Plus, historically, CNN architectures have proven to be an incredibly effective 
 
 ## How to Run the Project in Google Colab
 
-1. Download Chula-ParasiteEgg-11.zip
+1. Download Chula-ParasiteEgg-11.zip to your local machine (too large to add to this repository, but it will be submitted in WorldClass instead)
+2. Copy or move the .zip file above somewhere in your personal Google Drive
+3. Open Google Colab: https://colab.research.google.com/
+4. In Colab, click File > 'Open Notebook'
+5. In the pop-up window, select the GitHub tab, then copy and paste this GitHub repository high level link in the field box: 
 
 ## Dataset Description
 
